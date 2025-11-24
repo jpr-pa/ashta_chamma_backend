@@ -1,0 +1,7 @@
+# requirements.txt
+Django==4.2.7
+djangorestframework==3.14.0
+django-cors-headers==4.3.1
+channels==4.0.0
+channels-redis==4.1.0
+redis==5.0.1
